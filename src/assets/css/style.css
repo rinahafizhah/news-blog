@@ -1,0 +1,20 @@
+body {
+  font-family: Karla;
+}
+
+.bg-inverse {
+  background-color: #000;
+}
+
+.card {
+  margin: 5px;
+}
+.card-text {
+  font-size: 12px;
+}
+a {
+  color: #cc0000;
+}
+a:hover {
+  color: #cc0000;
+}
